@@ -11,3 +11,4 @@ dato.Dividir(9);
 Console.WriteLine(dato.Resultado);
 dato.Limpiar();
 Console.WriteLine(dato.Resultado);
+//hola
